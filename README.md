@@ -15,7 +15,7 @@ Additionally, our Switch Camera feature allows users to switch between the front
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript
+**Client:** HTML, Bootstrap, JavaScript
 
 
 
